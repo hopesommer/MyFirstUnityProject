@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class changeColor : MonoBehaviour {
 
+<<<<<<< HEAD
     //classes contain real values instead of varibales, object-oriented programming 
 
+=======
+>>>>>>> master
 	// Use this for initialization
 	void Start () {
 		

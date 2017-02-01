@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class moveObject : MonoBehaviour {
 
+<<<<<<< HEAD
     //classes are the blueprint for individual objects 
 
 
+=======
+>>>>>>> master
 	// Use this for initialization
 	void Update () {
         if (Input.GetKey (KeyCode.LeftArrow))
